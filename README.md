@@ -7,16 +7,12 @@ NodeFlow is a visual workflow automation tool for the Aptos blockchain, inspired
 ---
 
 # Demo Video Link
-```
-https://youtu.be/a_33riNJSkw
-```
+[Demo Video](https://youtu.be/a_33riNJSkw)
 
 ---
 
 # Project PPT Link
-```
-https://drive.google.com/file/d/1N5Wczs_jf63BKkSDp-wPcszMlJG63-1f/view?usp=sharing
-```
+[Project Presentation](https://drive.google.com/file/d/1N5Wczs_jf63BKkSDp-wPcszMlJG63-1f/view?usp=sharing)
 
 ---
 
